@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>A webpage that has 1 to 10 seperate lines with different colors</title>
+    </head>
+    <body>
+        <p style="background-color: red;"> Roses are red</p>
+        <p style="background-color: blue;">Violets are blue</p>
+        <p style="background-color: violet;">Sugar is sweet</p>
+        <p style="background-color: rgba(133, 218, 164, 0.823)">And so are you!</p>
+
+    </body>
+</html>
