@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>A webpage that displays my name and contains a background picture</title>
+        <style>
+            body{
+                background-image: url(g.jpg);
+                background-size: cover
+            }
+        </style>
+    </head>
+    <body>
+        <h2>My name is Pamela</h2>
+    </body>
+</html>
