@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>sentences with different line fonts</title>
+    </head> 
+    <body>
+      <h1 style = "font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">This is  a Franklin Gothic Medium font line.</h1>
+      <h1 style = "font-family:'Courier New', Courier, monospace;">This is a courier new font line.</h1>
+      <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">This is a Segoe UI font line.</h1>
+      <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;">This is a Georgia , ' Times New  Roman '</h1>
+    </body>
+</html>
